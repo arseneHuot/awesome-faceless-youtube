@@ -39,6 +39,7 @@ A longer ranked list with difficulty notes: [13 faceless YouTube channel ideas](
 
 - [TubeTube](https://www.tubetube.io) - Turns lyrics or a story into a finished long-form video: music or narration, consistent characters, scenes, final cut and thumbnail in one run. Disclosure: this is us.
 - [Pictory](https://pictory.ai) - Text to video built on stock footage, strong for listicle and explainer formats.
+- [videos.social](https://videos.social/?utm_source=awesome-faceless-youtube&utm_medium=directory&utm_campaign=listing-wave-d) - Turns blogs, PDFs, and prompts into an editable faceless draft (script, scenes, voiceover).
 - [InVideo AI](https://invideo.io) - Prompt to video with stock assets and voiceover.
 - [Revid](https://www.revid.ai) - Short-form focused, TikTok and Shorts pipelines.
 
