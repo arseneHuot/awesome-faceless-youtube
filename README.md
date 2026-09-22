@@ -42,6 +42,8 @@ A longer ranked list with difficulty notes: [13 faceless YouTube channel ideas](
 - [InVideo AI](https://invideo.io) - Prompt to video with stock assets and voiceover.
 - [Revid](https://www.revid.ai) - Short-form focused, TikTok and Shorts pipelines.
 
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - Source-installed CLI and MCP toolkit that lets coding agents compose, edit, optionally generate, and assemble videos from editable plan.json timelines.
+
 ### Video generation models (raw access)
 
 - [Kling](https://kling.ai) - Strong motion, good price. The 2.6 Pro tier is a common default.
