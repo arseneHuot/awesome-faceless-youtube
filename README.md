@@ -41,6 +41,7 @@ A longer ranked list with difficulty notes: [13 faceless YouTube channel ideas](
 - [Pictory](https://pictory.ai) - Text to video built on stock footage, strong for listicle and explainer formats.
 - [InVideo AI](https://invideo.io) - Prompt to video with stock assets and voiceover.
 - [Revid](https://www.revid.ai) - Short-form focused, TikTok and Shorts pipelines.
+- [FacelessShorts](https://facelessshorts.io) - Scripted faceless short-form series with voiceover, captions, and scheduled auto-publishing to Shorts, TikTok, and Reels.
 
 ### Video generation models (raw access)
 
