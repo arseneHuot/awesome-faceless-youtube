@@ -44,6 +44,7 @@ A longer ranked list with difficulty notes: [13 faceless YouTube channel ideas](
 
 ### Video generation models (raw access)
 
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video, 9:16, freemium).
 - [Kling](https://kling.ai) - Strong motion, good price. The 2.6 Pro tier is a common default.
 - [Google Veo 3.1](https://labs.google/fx/tools/flow) - Native audio, cinematic quality, 8 second cap per clip. Comparison of ways to access it: [Veo 3 alternatives](https://www.tubetube.io/veo-3-alternative).
 - [Hailuo (MiniMax)](https://hailuoai.video) - Best value per second of finished video in many tests.
